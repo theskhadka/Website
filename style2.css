@@ -1,0 +1,15 @@
+h1 {
+    color: #000020
+}
+p {
+    text-align: center;
+    color: #FFFFFF;
+}
+.header {
+    background-color: #E0E0E0;
+    display: flex;
+    justify-content: space-between;
+}
+body {
+    background-color: #000020;
+}
